@@ -1,136 +1,78 @@
 [
-
     {
-
-         "img": "https://qu.ax/osFCY.jpg",
-
-         "name": "فورد"
-
-     },
-      {
-
-         "img": "https://qu.ax/tyfpC.jpg",
-
-         "name": "تويوتا"
-
-     },
-      {
-
+        "img": "https://qu.ax/osFCY.jpg",
+        "name": "فورد"
+    },
+    {
+        "img": "https://qu.ax/tyfpC.jpg",
+        "name": "تويوتا"
+    },
+    {
         "img": "https://qu.ax/gGdNU.jpg",
-
         "name": "اودي"
-
-     },
-      {
-
-       "img": "https://qu.ax/VkpvN.jpg",
-
-       "name": "بي ام دابليو"
-
-     },
-      {
-
-                                                                                                                    "img": "https://qu.ax/yVfZj.jpg",
-
-       "name": "ماسدا"
-
-     },
-      {
-
-                                                                                                                    "img": "https://qu.ax/wvSgX.jpg",
-
-       "name": "مرسيدس"
-
-     },
-      {
-
-                                                                                                                    "img": "https://qu.ax/KnsUf.jpg",
-
-       "name": "سوزوكي"
-
-     },
-      {
-
-                                                                                                                     "img": "https://qu.ax/xPmOJ.jpg",
-
+    },
+    {
+        "img": "https://qu.ax/VkpvN.jpg",
+        "name": "بي ام دابليو"
+    },
+    {
+        "img": "https://qu.ax/yVfZj.jpg",
+        "name": "ماسدا"
+    },
+    {
+        "img": "https://qu.ax/wvSgX.jpg",
+        "name": "مرسيدس"
+    },
+    {
+        "img": "https://qu.ax/KnsUf.jpg",
+        "name": "سوزوكي"
+    },
+    {
+        "img": "https://qu.ax/xPmOJ.jpg",
         "name": "بيجو"
-
-     },
-      {
-
-         "img": "https://qu.ax/EMwgn.jpg",
-
-         "name": "اوبل"
-
-     },
-      {
-    
-         "img": "https://qu.ax/grDDS.jpg",
-
-         "name": "هوندا"
-
-      },
-       {
-
-         "img": "https://qu.ax/lCMGk.jpg",
-
+    },
+    {
+        "img": "https://qu.ax/EMwgn.jpg",
+        "name": "اوبل"
+    },
+    {
+        "img": "https://qu.ax/grDDS.jpg",
+        "name": "هوندا"
+    },
+    {
+        "img": "https://qu.ax/lCMGk.jpg",
         "name": "نيسان"
-
-       },
-        {
-
+    },
+    {
         "img": "https://qu.ax/VBHrZ.jpg",
-
-       "name": "لامبورجيني"
-
-      },
-       {
-
+        "name": "لامبورجيني"
+    },
+    {
         "img": "https://qu.ax/UxqwY.jpg",
-
         "name": "بورش"
-
-       },
-        {
-
-       "img": "https://qu.ax/YfQZZ.jpg",
-
-       "name": "ميتسوبيشي"
-
-      },
-       {
-
-       "img": "https://qu.ax/NzOwg.jpg",
-
-       "name": "شيفروليه"
-
-      },
-       {
-
-       "img": "https://qu.ax/soakj.jpg",
-
-       "name": "لادا"
-
-      },
-       {
-
+    },
+    {
+        "img": "https://qu.ax/YfQZZ.jpg",
+        "name": "ميتسوبيشي"
+    },
+    {
+        "img": "https://qu.ax/NzOwg.jpg",
+        "name": "شيفروليه"
+    },
+    {
+        "img": "https://qu.ax/soakj.jpg",
+        "name": "لادا"
+    },
+    {
         "img": "https://qu.ax/qXQwo.jpg",
-
         "name": "سكودا"
-
-       },
-        {
-
-       "img": "https://qu.ax/mMmUJ.jpg",
-
-       "name": "چيلي"
-
-      },
-       {
-
+    },
+    {
+        "img": "https://qu.ax/mMmUJ.jpg",
+        "name": "چيلي"
+    },
+    {
         "img": "https://qu.ax/hjNYa.jpg",
-
         "name": "رولز"
-
-       }
-[
+    }
+]
